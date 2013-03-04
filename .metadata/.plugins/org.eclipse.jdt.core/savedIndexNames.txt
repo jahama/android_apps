@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/home/javi/workspacesAndroidGithub/.metadata/.plugins/org.eclipse.jdt.core
+388764475.index
+114495076.index
+965697956.index
+2771840877.index
+3845649467.index

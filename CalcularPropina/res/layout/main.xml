@@ -10,8 +10,7 @@
     android:text="@string/calcularPropina"
     />
 <EditText
-	android:id="
-	@+id/mealprice"
+	android:id="@+id/mealprice"
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
 	android:autoText="true"
